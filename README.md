@@ -1,5 +1,5 @@
 # 手寫數字辨識✏️
-![image](https://github.com/Charles917009/python/blob/master/Chen-Qun-Lin%20homework/網頁.png)
+![image](https://github.com/Charles917009/------/blob/master/image.png)
 - 功能：可以辨識任意手寫的數字為何（附加背景BGM)
 ## 建構模型訓練環境
 
